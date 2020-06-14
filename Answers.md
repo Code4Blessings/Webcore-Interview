@@ -8,12 +8,14 @@
 Answer:
 
 ```
-The first thing I would consider is how to make the website responsive so that the websites can be accessed on all mobile devices as well as desktop computers.  The other thing I need to consider is how to make it accessible to 
+The first thing I would consider is how to make the website responsive so that the websites can be accessed on all mobile devices as well as desktop computers.  The other thing I need to consider is how to make it accessible to the visually and mentally impaired
+
 ```
 
 Repo: 
 
 ```
+Preprocessing-II/index.html
 
 ```
 
@@ -22,14 +24,11 @@ Repo:
 Answer:
 
 ```
+Callbacks are functions that are taken in as arguments. Higher order functions are functions that use callback functions. 
 
 ```
 
-Repo: 
-
-```
-
-```
+Click **[here](https://github.com/Code4Blessings/Sprint-Challenge--JavaScript/blob/master/challenges/functions.js)** to see an example of callbacks and higher order functions
 
 3. When are asynchronous methods useful? Why are Async/Await, Callbacks, and Promises useful?
 
