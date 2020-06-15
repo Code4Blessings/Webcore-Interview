@@ -30,6 +30,7 @@ Callbacks are functions that are taken in as arguments. Higher order functions a
 
 Click **[here](https://github.com/Code4Blessings/Sprint-Challenge--JavaScript/blob/master/challenges/functions.js)** to see an example of callbacks and higher order functions
 
+
 3. When are asynchronous methods useful? Why are Async/Await, Callbacks, and Promises useful?
 
 Answer:
@@ -49,55 +50,46 @@ Repo:
 Answer:
 
 ```
+A number of things could be causing the issue such as; user activity, API requests not written properly, or even network activity.  I'd also check the initial states and set States to make sure what type of state it is --an array, a string, or and object?
 
 ```
 
-Repo: 
-
-```
-
-```
 
 5. Why should we use Proptypes in React?
 
 Answer:
 
 ```
+Props is an argument that react takes in for the purpose of passing down data dynamically from the parent component down to its children.  This enables the developer to use less code and follow the principle of DRY.
 
 ```
-
-Repo: 
-
-```
-
-```
+For an example click [here](https://github.com/Code4Blessings/team-builder/blob/robin-warden/src/App.js)
 
 6. A company has a website that currently renders very badly on tablets and mobile devices. You’ve been tasked to make the site responsive. How will you go about this?
 
 Answer:
 
 ```
+I would look at the website and shrink it to the size of a mobile phone using the window resizer extension, on chrome to get the exact dimensions of a mobile phone.  Then I would examine the site to see which parts of it do not fit in the screen.  Whatever doesn't fit well will have a media query applied in order to make the text and the images fit properly.
 
 ```
 
-Repo: 
+Repo: [The Receipt Tracker App](https://github.com/lambda-webpt-rta/bw_rta_web_ui_robin/tree/master/less)
 
-```
-
-```
 
 7. When should you opt to use a stateless component vs a stateful component in React? 
 
 Answer:
 
 ```
+A stateless component is one that has no changes or functionality.  For example, when we pass down data and want to identify which part of the data has an h1 tag, or a p tag, then we would make use of a stateless component.  In the case of a component that will have changes and/ or functionality, we would invoke a stateful component.  An example for this would be a form
 
 ```
 
 Repo: 
 
 ```
-
+[]()
 ```
 
 8. What are the most common React Lifecycle methods? How do React hooks relate to these?
@@ -133,12 +125,13 @@ Repo:
 Answer:
 
 ```
-
+When we want the website to be responsive.  Whereas rem and em are based on the size of the screen, pixels are a fixed size regardless of the size of the screen.
 ```
 
 Repo: 
 
 ```
+[Portfolio](https://github.com/Code4Blessings/RobinWarden_Portfolio/blob/master/scss/main.scss)
 
 ```
 
@@ -147,7 +140,7 @@ Repo:
 Answer:
 
 ```
-
+The constructor contains the initial state of the component
 ```
 
 Repo: 
@@ -175,13 +168,13 @@ Repo:
 Answer:
 
 ```
-
+DOM stands for Document Object Model.  In terms of JS, the model follows the structure of an HTML skeleton (show index.html example)
 ```
 
 Repo: 
 
 ```
-
+Github User Card in Applied JS
 ```
 
 14. In plain Javascript, what are event handlers used for? Give an example of event handler use? 
@@ -345,7 +338,7 @@ Repo:
 Answer:
 
 ```
-
+Both sessions and cookies store information such as 
 ```
 
 Repo: 
